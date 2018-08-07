@@ -1,5 +1,8 @@
 Cold and dry, but everything is my favourite colour. 
+<<<<<<< HEAD
 The two moons may be a problem for Wolfman!
 But the mummy will appreciate the lack of humidity. 
 The chances of finding mars bars there are high, 
 which will be good for all three. 
+=======
+>>>>>>> parent of 09d2a0f... Add concerns about effects of Mard' moons of Wolfman
